@@ -1,5 +1,12 @@
 import styled from 'styled-components';
 
+export const orange = '#fe7400';
+export const purple = '#af2274';
+export const red = '#de0125';
+export const blue = `#01b6f3`;
+export const yellow = `#fffd53`;
+export const green = `#00d082`;
+
 export const Heading = styled.div`
   display: flex;
   flex-direction: column;
